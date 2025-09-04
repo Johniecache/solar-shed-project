@@ -30,3 +30,18 @@ $$
 
 ### Solar Panel
 * Inefficiency Modifier (Aprox) 140% (1.4)
+
+$$
+\frac{3000w}{5d} = 600w/day
+$$
+$$
+\frac{600w}{5h} = 120w
+$$
+$$
+120w * 1.4 = 168w 
+$$
+
+### Summary
+* Useage Time: Only in summer (mowing, bush trimming, branch removal, etc.)
+* Battery: LiFePO4 280-300Ah 12v or 24v
+* Solar Panel: 200w minimum
