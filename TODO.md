@@ -1,15 +1,6 @@
 # TODO
 ### Critical
-* complete README on main page
-  * Overview
-  * Use Case
-  * Feature
-  * Components
-  * Wired Diagram
-  * Power Flow
-  * Safety Notes
-  * License
-  * Author
+* README file needs wired diagram
 * add and fill out BOM.md on mainpage
 * add calcs folder with calculations inside
 * add images folder with all images inside
