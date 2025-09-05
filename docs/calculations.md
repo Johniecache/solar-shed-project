@@ -42,6 +42,12 @@ $$
 $$
 
 ### Summary
-* Useage Time: Only in summer (mowing, bush trimming, branch removal, etc.)
-* Battery: LiFePO4 280-300Ah 12v or 24v
-* Solar Panel: 200w minimum
+* Useage Time:
+  * Only in summer (mowing, bush trimming, branch removal, etc.)
+  * Mostly clear skys with little overcast
+* Battery: 
+  * LiFePO4 with Deep Cycle and BMS
+  * 250Ah Absolute Minimum - 280Ah to 300Ah recommended
+  * 12v System
+* Solar Panel:
+  * 200w Absolute Minimum
