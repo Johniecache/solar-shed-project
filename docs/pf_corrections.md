@@ -52,8 +52,10 @@ Q_{c} = 321.1VAR - 123.3VAR = 197.8VAR
 $$
 
 $$
-C = \frac{197.8VAR}{(377)(\frac{169.7v}{\sqrt{2}})} \approx 0.0043724F \rightarrow 4327&micro;F
+C = \frac{197.8VAR}{(377)(120v)^{2}} \approx 0.000036435307987F \rightarrow 36&micro;F
 $$
+
+  * Capacitor with capacitance 36&micro;F at 250v or 370v is $\approx$ $10-$20 on [Amazon](https://www.amazon.com/CBB65-Capacitor-250VAC-45x75mm-Listed/dp/B0FH1S5MZY/ref=sr_1_6?crid=P537P73LEHLU&dib=eyJ2IjoiMSJ9.XNKUHBpWnttUK2vUvT3apr555FrX2r5Lh2cA0C3dasjwGYYP87fV1MQbEM2Gr4YHa-ze2eWMLKYKCFhqkPJ1Vh_ka8oMBnAQdoJkzFAvB3a9uDlrfVerKz_kRpNNk7g4aqqASgvvNMJXDmj-KM2dQro61xwgqgZgrtIqQ1-bktNAA-6vCehFxTWu2-XZtNa9lMp3AxNvsO71_D3o3UaWNHtdRlu9MCaF4OM4d4JKum0.oCxBXGqUck1g2cZqmKrtqo2O7v3tl-HptYsmIaNWn-M&dib_tag=se&keywords=36uF+capacitor+250v&qid=1757700063&sprefix=36uf+capacitor+250v%2Caps%2C107&sr=8-6)
 
 
 
