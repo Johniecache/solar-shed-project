@@ -12,6 +12,10 @@
 **Approx Power Factor**
 
 $$
-PF = \frac{375w}{(\frac{200w}{0.7}) + (\frac{30w}{0.8}) + (\feac{100w}{0.6})} \approx 0.795957 \rightarrow 0.8
+PF = \frac{375w}{(\frac{200w}{0.7}) + (\frac{30w}{0.7}) + (\feac{100w}{0.6})} \approx 0.7572115 \rightarrow 0.76
 $$
+
+  * This is average across the board so you personally would have to test the pf of each component to get the correct total pf for your personal system. Again this is **assumed**.
+  * The pf ranges anywhere from 0.65 - 0.91 which will drastically change what capacitor and (if applied) inductor used.
+
 
